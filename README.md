@@ -1,11 +1,5 @@
 <img src="https://img.icons8.com/color/48/000000/combo-chart--v1.png" width="30"/> Blinkit Performance Insights – Power BI Dashboard
 
-
-<img width="596" height="341" alt="image" src="https://github.com/user-attachments/assets/3a142c7b-c9e8-4729-9173-1606a7ce1055" />
-
-
-
-
 📊 Data analytics project analyzing Blinkit’s sales, ratings, outlet performance, and product trends
 ⚡ Built an interactive Power BI dashboard to uncover key business insights & improve decision-making
 
